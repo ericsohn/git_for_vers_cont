@@ -1,2 +1,7 @@
 Eric 
 Matthew
+<<<<<<< HEAD
+=======
+Rachel
+
+>>>>>>> trying
